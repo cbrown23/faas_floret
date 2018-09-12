@@ -1,0 +1,28 @@
+{
+  "name": "faas-floret",
+  "version": "1.0.0",
+  "description": "example faas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrown23/faas_floret.git"
+  },
+  "keywords": [
+    "floret",
+    "microservices",
+    "faas"
+  ],
+  "author": "Clint Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbrown23/faas_floret/issues"
+  },
+  "homepage": "https://github.com/cbrown23/faas_floret#readme",
+  "dependencies": {
+    "floret": "^1.1.2",
+    "floret-gateway-kong": "^0.0.2"
+  }
+}

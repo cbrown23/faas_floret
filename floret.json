@@ -1,0 +1,9 @@
+{
+  "name": "faas-floret",
+  "uri": "/faas",
+  "port": 8886,
+  "host": "127.0.0.1",
+  "apis": [],
+  "channels": [],
+  "gatewayModuleName": "floret-gateway-kong"
+}
